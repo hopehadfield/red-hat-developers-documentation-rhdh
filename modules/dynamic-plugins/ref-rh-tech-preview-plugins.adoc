@@ -5,7 +5,7 @@
 [id="red-hat-technology-preview-plugins"]
 = {company-name} Technology Preview plugins
 
-{company-name} provides Technology Preview support for the following 56 plugins:
+{company-name} provides Technology Preview support for the following 51 plugins:
 
 [%header,cols=4*]
 |===
@@ -210,26 +210,6 @@
 `GITLAB_TOKEN`
 
 
-|PagerDuty |`https://npmjs.com/package/@pagerduty/backstage-plugin/v/0.16.0[@pagerduty/backstage-plugin]` |0.16.0 
-|`./dynamic-plugins/dist/pagerduty-backstage-plugin`
-
-
-|PagerDuty |`https://npmjs.com/package/@pagerduty/backstage-plugin-backend/v/0.9.11[@pagerduty/backstage-plugin-backend]` |0.9.11 
-|`./dynamic-plugins/dist/pagerduty-backstage-plugin-backend-dynamic`
-
-`PAGERDUTY_API_BASE`
-
-`PAGERDUTY_CLIENT_ID`
-
-`PAGERDUTY_CLIENT_SECRET`
-
-`PAGERDUTY_SUBDOMAIN`
-
-
-|Azure Repositories |`https://npmjs.com/package/@parfuemerie-douglas/scaffolder-backend-module-azure-repositories/v/0.3.0[@parfuemerie-douglas/scaffolder-backend-module-azure-repositories]` |0.3.0 
-|`./dynamic-plugins/dist/parfuemerie-douglas-scaffolder-backend-module-azure-repositories-dynamic`
-
-
 |Bulk Import |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-bulk-import/v/1.18.1[@red-hat-developer-hub/backstage-plugin-bulk-import]` |1.18.1 
 |`./dynamic-plugins/dist/red-hat-developer-hub-backstage-plugin-bulk-import`
 
@@ -248,14 +228,6 @@
 
 |Marketplace |`https://npmjs.com/package/@red-hat-developer-hub/backstage-plugin-marketplace-backend/v/0.11.0[@red-hat-developer-hub/backstage-plugin-marketplace-backend]` |0.11.0 
 |`./dynamic-plugins/dist/red-hat-developer-hub-backstage-plugin-marketplace-backend-dynamic`
-
-
-|Orchestrator |`https://npmjs.com/package/@redhat/backstage-plugin-orchestrator-backend/v/1.7.1[@redhat/backstage-plugin-orchestrator-backend]` |1.7.1 
-|`@redhat/backstage-plugin-orchestrator-backend-dynamic@1.7.1`
-
-
-|Orchestrator Form Widgets |`https://npmjs.com/package/@redhat/backstage-plugin-orchestrator-form-widgets/v/1.7.1[@redhat/backstage-plugin-orchestrator-form-widgets]` |1.7.1 
-|`@redhat/backstage-plugin-orchestrator-form-widgets@1.7.1`
 
 
 |Datadog |`https://npmjs.com/package/@roadiehq/backstage-plugin-datadog/v/2.5.0[@roadiehq/backstage-plugin-datadog]` |2.5.0 
